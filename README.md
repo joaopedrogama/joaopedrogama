@@ -16,7 +16,7 @@
 ## 📈 Estatísticas do GitHub
 
 ![Estatísticas do GitHub de Seu Nome](https://github-readme-stats.vercel.app/api?username=joaopedrogama&show_icons=true&theme=dark)
-[](https://raw.githubusercontent.com/joaopedrogama/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Tehcs que mais utilizo](https://raw.githubusercontent.com/joaopedrogama/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ## 🌐 Redes Sociais
 

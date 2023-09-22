@@ -16,7 +16,6 @@
 ## 📈 Estatísticas do GitHub
 
 ![Estatísticas do GitHub de João Pedro Gama](https://github-readme-stats.vercel.app/api?username=joaopedrogama&show_icons=true&theme=dark)
-[![Estatísticas do GitHub de João Pedro Gama](https://awesome-github-stats.azurewebsites.net/user-stats/João Pedro Gama?cardType=github&theme=material-palenight&preferLogin=true)](https://git.io/awesome-stats-card)
 
 ## 🌐 Redes Sociais
 

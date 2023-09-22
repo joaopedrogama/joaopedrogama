@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 # 👋 Olá, sou João Gama!
 
 👨‍💻 Sou um desenvolvedor back-end apaixonado por programação, atualmente trabalhando como desenvolvedor júnior na [Empresa Prati Donaduzzi](https://www.pratidonaduzzi.com.br/). Tenho 20 anos e estou sempre em busca de novos desafios e oportunidades de aprendizado.

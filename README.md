@@ -20,6 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
 - 💼 Trabalho principalmente com **Spring Boot**, **Docker** e outras tecnologias relacionadas a **DevOps**.
 - 🌱 No momento, tenho interesse em aprender **Django** e **FastAPI** e procuro por uma primeira oportunidades com essas techs (Claro que nunca abandonando meu spring boot 🥰 ).
 - 🚀 Aqui você encontrará meus códigos de projetos pessoais e também projetos que estou desenvolvendo como parte da minha iniciação científica na faculdade.

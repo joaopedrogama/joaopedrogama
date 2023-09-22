@@ -30,6 +30,7 @@
 ## 📈 Estatísticas do GitHub
 
 ![Estatísticas do GitHub de João Pedro Gama](https://github-readme-stats.vercel.app/api?username=joaopedrogama&show_icons=true&theme=dark)
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrogama&layout=compact&theme=vision-friendly-dark)
 
 ## 🌐 Redes Sociais
 

@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/seuusuario/seurepositorio/raw/main/assets/logo.png" alt="Logo do Seu Projeto">
-</div>
-
 # 👋 Olá, sou João Gama!
 
 👨‍💻 Sou um desenvolvedor back-end apaixonado por programação, atualmente trabalhando como desenvolvedor júnior na [Empresa Prati Donaduzzi](https://www.pratidonaduzzi.com.br/). Tenho 20 anos e estou sempre em busca de novos desafios e oportunidades de aprendizado.
@@ -20,6 +16,7 @@
 ## 📈 Estatísticas do GitHub
 
 ![Estatísticas do GitHub de Seu Nome](https://github-readme-stats.vercel.app/api?username=joaopedrogama&show_icons=true&theme=dark)
+[](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ## 🌐 Redes Sociais
 

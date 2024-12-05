@@ -4,7 +4,7 @@
 
 # 👋 Olá, sou João Gama!
 
-👨‍💻 Sou um desenvolvedor back-end apaixonado por programação, atualmente trabalhando como desenvolvedor júnior na Empresa SSYS sistemas. Tenho 20 anos e estou sempre em busca de novos desafios e oportunidades de aprendizado.
+👨‍💻 Sou um desenvolvedor back-end apaixonado por programação, atualmente trabalhando como desenvolvedor júnior na Empresa SSYS sistemas. Tenho 21 anos e estou sempre em busca de novos desafios e oportunidades de aprendizado.
 
 ## 🔧 Tecnologias e Ferramentas
 
@@ -20,7 +20,7 @@
 
 - 💼 Trabalho principalmente com **Django** e **Docker** mas ja desenvolvi bastante em **spring-boot** também.
 - 🌱 No momento, tenho interesse em aprender **Kubernets** e procuro por uma primeira oportunidades com essa tech.
-- 🚀 Aqui você encontrará meus códigos de projetos pessoais e também projetos que estou desenvolvendo como parte da minha iniciação científica na faculdade.
+- 🚀 Aqui você encontrará meus códigos de projetos pessoais de techs que estudo e possivelmente estou usando no trabalho e também projetos de iniciação cientifica que participei durante minha graduação.
 
 ## 🤝 Colaboração
 
